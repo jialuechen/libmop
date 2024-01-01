@@ -1,2 +1,2 @@
 # libmop
-C++ Model Optimization library
+C++ Model-based Optimization library
