@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.0.2)
-project(libmop VERSION 2.1 DESCRIPTION "libmop LIbrary for Model-Based Optimization")
+project(libmop VERSION 2.1 DESCRIPTION "libmop Library for Model-Based Blackbox Optimization")
 
 # Cpp standard
 set(CMAKE_CXX_STANDARD 14)
